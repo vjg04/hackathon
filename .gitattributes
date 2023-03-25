@@ -1,0 +1,4 @@
+models filter=lfs diff=lfs merge=lfs -text
+training filter=lfs diff=lfs merge=lfs -text
+*.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+training/exported_models/my_model/** filter=lfs diff=lfs merge=lfs -text

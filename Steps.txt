@@ -1,0 +1,6 @@
+Steps to predict the type of garbage from an image
+1.Update the IMAGE_PATHS variable with the location of the image that need to be detected.
+2.Run the objectdetection.py file 
+3.The output will be saved in the output directory with name "output.jpg"
+
+# Our model takes only jpg image as input all other image format will generate error.
