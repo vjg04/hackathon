@@ -1,4 +1,5 @@
 streamlit==1.0.0
+streamlit-image-select
 # # This file may be used to create an environment using:
 # # $ conda create --name <env> --file <this file>
 # # platform: win-64
