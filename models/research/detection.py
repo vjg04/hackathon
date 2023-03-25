@@ -131,5 +131,5 @@ def object_detection11(img_path):
     # # CLOSES WINDOW ONCE KEY IS PRESSED
     # # white paper 
 
-
+    image_with_detections = cv2.cvtColor(image_with_detections, cv2.COLOR_RGB2BGR)
     return image_with_detections
